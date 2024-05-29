@@ -1,4 +1,4 @@
-// abre modal
+// Quando o botão for selecionado, abre o modal confiurado no botão 'openModalBtn'
 document.addEventListener("DOMContentLoaded", function() {
     // Seleciona o botão pelo ID
     var openModalBtn = document.getElementById('openModalBtn');
